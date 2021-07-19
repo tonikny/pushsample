@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "pushtest",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.jrbistuer.pushtest",
+  "appName": "pushtest",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }

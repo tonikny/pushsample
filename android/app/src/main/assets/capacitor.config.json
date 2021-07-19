@@ -1,0 +1,6 @@
+{
+	"appId": "com.jrbistuer.pushtest",
+	"appName": "pushtest",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
